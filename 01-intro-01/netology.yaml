@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: myservice
   namespace: default
+#Yaitskaya Yelena
 spec:
   ports:
     - name: web
